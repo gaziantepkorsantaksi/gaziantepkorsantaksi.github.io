@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Gaziantep Korsan Taksi | Havalimanı, Zeugma ve Sanayi</title>
+  <link href="https://gaziantepkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://gaziantepkorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://gaziantepkorsantaksi.github.io/</id>
+  <updated>2026-11-19T02:19:15.452Z</updated>
+  <author><name>Gaziantep Korsan Taksi</name></author>
+  <entry>
+    <title>Gaziantep Korsan Taksi | Havalimanı, Zeugma ve Sanayi</title>
+    <link href="https://gaziantepkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://gaziantepkorsantaksi.github.io/</id>
+    <updated>2026-11-19T02:19:15.452Z</updated>
+    <summary>Gaziantep korsan taksi: Gaziantep Havalimanı Şahinbey'den 20 km, Zeugma Müzesi, kale ve Bakırcılar Çarşısı, organize sanayi, Nizip ve İslahiye yolu. 7/24.</summary>
+  </entry>
+</feed>
